@@ -1,0 +1,100 @@
+
+.col-12{
+background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.container{
+
+    width:200%;
+    height: 1400px;
+}
+
+ #logo{
+    width:150px;
+height:50px;
+}
+
+
+.col-2{
+
+    margin-left: 70px;
+    margin-top: 30px;
+}
+.coniatner1{
+    
+    margin-top: 10px;
+}
+
+.abc {
+
+    width: 130%;
+}
+.icon2{
+
+    width:20%;
+}
+#side{
+        height: 1400px;
+}
+#sidebar{
+    
+    height: 770px;
+}
+#sidebar-right{
+
+    width:70%;
+    height: 1400px;
+  
+    margin-left: 20px;
+}
+#sidebar-img{
+    width:100%;
+    height: 300px;
+    margin-top: 30px;
+    margin-left: 9sspx;
+    border-radius: 10px;
+}
+.heading{
+    margin-top: 30px;
+
+    margin-left: 23px;}
+    .image3{
+
+        margin-top: 30px;
+                height: 1000px;
+        margin-left: 23px;
+    }
+    .card-img-top{
+        width:80%;
+        height:80%;
+    }
+    .card-title{
+    font-size: small;
+    }
+    .card-text{
+        font-size: 10px; 
+    }
+    .card-last-text{
+      
+        color:rgb(109, 108, 107);
+     width:80px;
+     display: inline;
+    }
+    .card-last-text-a{
+       
+        width: 8%;
+        display: inline;
+        color: red;
+    }
+    .inner{
+        overflow: hidden;
+    }
+    .inner img{
+        transition: all 1.5s ease;
+    }
+    .inner:hover img{
+        transform: scale(1.5);
+    }
+    
